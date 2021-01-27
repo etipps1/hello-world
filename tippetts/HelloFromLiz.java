@@ -7,5 +7,6 @@ public class HelloFromLiz {
     public static void main(String[] args) {
         HelloFromLiz hello = new HelloFromLiz();
         hello.sayHello("Liz");
+        System.out.println("Hello, Liz. My name is Heather.");
     }
 }
